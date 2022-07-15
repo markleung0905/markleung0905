@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently learning blockchain, Unity with C#.Net
 
 - 📫 How to reach me **markleung0905@gmail.com**
 
